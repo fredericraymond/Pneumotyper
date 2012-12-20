@@ -3,6 +3,6 @@ Pneumotyper is a software tool to interpreet results obtained from a Streptococc
 
 The software requires Perl. 
 
-Command-line is :
+## Command-line use 
 
 perl Pneumotyper.pl Results.txt
