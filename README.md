@@ -9,6 +9,19 @@ The software requires Perl.
 
 perl Pneumotyper.pl Results.txt
 
+## Results interpretation
+
+Example : 
+MA87708 2012092019072317        Pos(2.52)       Pos(48.28)      Pos(40.51)      0.5     19a
+
+Column 1 : Sample ID (MA87708)
+Column 2 : Sample Run ID (2012092019072317)
+Column 3 : Internal control. Pos = Positive. Neg = Negative. Number in parenthesis indicates the observed signal.
+Column 4 : Pneumolysin probe. Pos = Positive. Neg = Negative. Number in parenthesis indicates the observed signal.
+Column 5 : Autolysin probe . Pos = Positive. Neg = Negative. Number in parenthesis indicates the observed signal.
+Column 6 : Serotyping score
+Column 7 : Most probable serotype.
+
 ## Licence
 
 The Pneumotyper software distributed under the GPLv3 Licence.
