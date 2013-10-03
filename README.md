@@ -1,7 +1,11 @@
 # Pneumotyper
 Copyright Frédéric Raymond 2012
 
-Pneumotyper is a software tool to interpreet results obtained from a Streptococcus pneumoniae serotyping assay that is currently being submitted to a peer-reviewed journal. This software takes as an input the results from the AutoGenomics INFINITI "SPNEUMO" assay.
+Pneumotyper is a software tool to interpreet results obtained from a Streptococcus pneumoniae serotyping assay that was published in 2013 in PLoS ONE. This software takes as an input the results from the AutoGenomics INFINITI "SPNEUMO" assay.
+
+Reference :
+
+Raymond F, Boucher N, Allary R, Robitaille L, Lefebvre B, et al. (2013) Serotyping of Streptococcus pneumoniae Based on Capsular Genes Polymorphisms. PLoS ONE 8(9): e76197. doi:10.1371/journal.pone.0076197
 
 The software requires Perl. 
 
